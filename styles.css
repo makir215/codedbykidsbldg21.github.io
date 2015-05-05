@@ -24,17 +24,17 @@ body{
 }
 #one{
     background-color: blue;
-    height: 60px;
+    height: 50px;
 }
 #two{
-    background-color: green;
-    height: 630px;
+    background-color: black;
+    height: 650px;
 }
 #three{
-    background-color: red;
-    height: 300px;
+    background-color: white;
+    height: 280px;
 }
 #four{
-    background-color: yellow;
-    height: 690px;
+    background-color: gray;
+    height: 650px;
 }
